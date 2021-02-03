@@ -11,7 +11,7 @@
 
 - Ask me about **FrontEnd(Javascript,TypeScript,SQL, etc..)**
 
-- How to reach me **kyeoungseok.kang@gmail.com**
+- How to reach me **gyeongseok.kang@gmail.com**
 
 - Fun fact **I'm a funny and harmonious person to work with.**
 
