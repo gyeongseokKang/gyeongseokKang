@@ -2,19 +2,14 @@
 <h3 align="center">A Deep-Working Developer</h3>
 
 
+- Currently learning : **TypeScript, React, Mobx**
 
-- I’m currently learning **TypeScript, React, Mobx**
+- Dev & Interest Blog : [https://all-dev-kang.tistory.com/](https://all-dev-kang.tistory.com/)
 
-- All of my projects are available at [https://gyeongseokkang.github.io/](https://gyeongseokkang.github.io/)
+- Working position : **Junior FrontEnd & Researcher**
 
-- I regulary write articles and book review on [https://all-dev-kang.tistory.com/](https://all-dev-kang.tistory.com/)
+- Email : **gyeongseok.kang@gmail.com**
 
-- Ask me about **FrontEnd(Javascript,TypeScript,SQL, etc..)**
+- One-line review : **I'm a harmonious & Enterprising developer to work with.😁**
 
-- How to reach me **gyeongseok.kang@gmail.com**
-
-- Fun fact **I'm a funny and harmonious person to work with.**
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeongseokkang&show_icons=true&locale=en" alt="gyeongseokkang" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeongseokkang&show_icons=true&locale=en" alt="gyeongseokkang" /></p>
