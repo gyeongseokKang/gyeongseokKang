@@ -12,4 +12,7 @@
 
 - One-line review : **I'm a harmonious & Enterprising developer to work with.😁**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeongseokkang&show_icons=true&locale=en" alt="gyeongseokkang" /></p>
+<div style="display=flex;justify-content=center">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=gyeongseokkang&show_icons=true&locale=en" alt="gyeongseokkang" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongseokkang&layout=compact" alt="gyeongseokkang" />
+</div>
