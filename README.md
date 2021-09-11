@@ -2,11 +2,11 @@
 <h3 align="center">A Deep-Working Developer</h3>
 
 
-- Currently learning : **TypeScript, React, Mobx**
+- Currently learning : **TypeScript, JavasScript, React, Recoil, FireBase, PWA**
 
 - Dev & Interest Blog : [https://all-dev-kang.tistory.com/](https://all-dev-kang.tistory.com/)
 
-- Working position : **Junior FrontEnd & Researcher**
+- Working position : **FrontEnd Developer& Researcher**
 
 - Email : **gyeongseok.kang@gmail.com**
 
