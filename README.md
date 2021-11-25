@@ -2,7 +2,7 @@
 <h3 align="center">A Deep-Working Developer</h3>
 
 
-- Currently learning : **TypeScript, JavasScript, React, Recoil, FireBase, PWA**
+- Currently learning : **TypeScript, JavasScript, React, Next, Recoil, AWS**
 
 - Dev & Interest Blog : [https://all-dev-kang.tistory.com/](https://all-dev-kang.tistory.com/)
 
