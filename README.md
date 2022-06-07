@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kang</h1>
-<h3 align="center">A Deep-Working Developer</h3>
+<h3 align="center">Developer Seeking Convenience</h3>
 
 
 - Currently learning : **TypeScript, JavasScript, React, Next, Recoil, AWS**
