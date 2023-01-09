@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Kang</h1>
+<h1 align="center">Hi, I'm Handy Kang</h1>
 <h3 align="center">Developer Seeking Convenience</h3>
 
 
-- Currently learning : **TypeScript, JavasScript, React, Next, Recoil, AWS**
+- Currently learning : **TypeScript, JavasScript, React, Next, AWS**
 
 - Dev & Interest Blog : [https://all-dev-kang.tistory.com/](https://all-dev-kang.tistory.com/)
 
