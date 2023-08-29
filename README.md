@@ -10,7 +10,7 @@
 
 - Working position : **FrontEnd Developer& Researcher**
 
-- Email : **gyeongseok.kang@gmail.com**
+- Email : **handy.kang.dev@gmail.com**
 
 <div style="display=flex;justify-content=center">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=gyeongseokkang&show_icons=true&locale=en" alt="gyeongseokkang" />
